@@ -1,2 +1,3 @@
-# dataAnalysisUsingPython
-Data Analysis Using Python of a Commercial Store
+📊 Data Analyst Internship — Brainwave Matrix Solutions
+
+I completed a Data Analyst Internship at Brainwave Matrix Solutions, where I worked on two real-world data-driven projects focused on extracting meaningful insights and improving decision-making through analytics. During this internship, I gained hands-on experience in data cleaning, visualization, and reporting using tools like Power BI, Tableau, Excel, and Python. My responsibilities included collecting and preparing datasets, performing exploratory data analysis, and creating interactive dashboards to present key findings. I also collaborated with mentors and team members to interpret trends, automate data workflows, and design data models that supported business goals. This internship strengthened my analytical thinking, problem-solving, and presentation skills, while giving me practical exposure to data visualization, storytelling, and real-time analytics in a professional environment.
